@@ -22,7 +22,7 @@
             android:layout_gravity="center"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/gemini_logo" />
+            android:src="@drawable/chatgpt_logo" />
     </androidx.cardview.widget.CardView>
 
 
